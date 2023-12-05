@@ -1,0 +1,15 @@
+#banner{
+font-size: 30px;
+}
+#clock{
+    background-color: rgb(131, 197, 9);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 28px;
+    padding: 10px 5px;
+    text-align: center;
+    font-weight: 900;
+}
